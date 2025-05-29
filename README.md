@@ -8,12 +8,6 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.shopify.com/">
-        <img src="shopify-color-svgrepo-com.svg">
-      </a>
-      <br>Shopify
-    </td>
-    <td align="center" width="96">
       <a href="https://react.dev/">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       </a>
@@ -24,13 +18,6 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://vercel.com/frameworks/nextjs">
-        <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>NextJS
-    </td>
     <td align="center" width="96">
       <a href="https://reactnative.dev/">
         <img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65" alt="Git" />
@@ -43,20 +30,7 @@
       </a>
       <br>Vue
     </td>
-    <td align="center" width="96">
-      <a href="https://wordpress.com/">
-        <img src="wordpress-svgrepo-com.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Wordpress
-    </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://woocommerce.com/">
-        <img src="woocommerce-icon-svgrepo-com.svg" width="65" height="65" alt="tailwind" />
-      </a>
-      <br>Woocommerce
-    </td>
     <td align="center" width="96">
       <a href="https://mui.com/">
         <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
@@ -118,13 +92,24 @@
 
 ---
 
-# 👋 Hi, I'm MagicDevStar!
+# 👋 Hi, I'm Vector!
 
 🚀 **Full-Stack Developer | Shopify Expert | Mobile App Developer | Ecommerce specialist**
 
 ### 💡 About Me
 
-I'm a passionate **Full-stack developer(Shopify, React)** with over **9 years of experience** in **web development** and **4+ years of experience** in **woocommerce and wordpress development**. Over the last 4 years, I've specialized in **MedusaJS and WebFlow, Smootify** development and have successfully built decentralized applications (dApps), smart contracts, and integrated solutions. My goal is to deliver **efficient**, **scalable**, and **maintainable** solutions that push the boundaries of what’s possible in both the web and mobile development space.
+I'm a passionate Full-Stack Developer with more than 4 years of focused work in e-commerce and WordPress.
+
+My core tech stack includes:
+🛒 Shopify & eCommerce solutions
+📱 Mobile-first and responsive development
+🖥️ React, JavaScript, and modern frontend frameworks
+🛠️ PHP & C++ for robust backend systems
+🌐 WordPress for CMS-driven projects
+
+In recent years, I’ve also specialized in platforms like MedusaJS, Webflow, and Smootify, developing everything from custom UIs to decentralized apps (dApps) and smart contracts.
+
+My goal is to deliver efficient, scalable, and maintainable solutions that elevate digital experiences across both web and mobile platforms.
 
 ### ⚡ Tech Stack
 
