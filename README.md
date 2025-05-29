@@ -76,12 +76,6 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="https://aws.amazon.com/">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
       <a href="https://tailwindcss.com/">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       </a>
